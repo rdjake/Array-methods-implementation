@@ -1,0 +1,15 @@
+{
+  "name": "array-methods-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayMethods.test.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
